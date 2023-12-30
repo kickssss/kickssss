@@ -25,7 +25,5 @@ I'm a passionate backend developer with a love for building robust, scalable, an
 🔗 **Check out some of my projects:**
 - WIP
 
-## 📈 **GitHub Stats:**
-## ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
 Feel free to connect with me or explore my projects. Always open to collaborations and discussions on exciting backend development topics!
