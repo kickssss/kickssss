@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there! 👋 I'm Kabir J.
 
-<!--
-**kickssss/kickssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate backend developer with a love for building robust, scalable, and efficient systems. I enjoy working with technologies like Node.js, Python, and databases like PostgreSQL and MongoDB.
 
-Here are some ideas to get you started:
+👨‍💻 **Skills:** 
+- Languages: JavaScript, Python, SQL
+- Frameworks: Express.js, Flask
+- Databases: PostgreSQL, MongoDB
+- RESTful APIs, GraphQL
+- CI/CD: Jenkins, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **What I'm currently working on:**
+- Improving performance in RESTful APIs
+- Implementing microservices architecture
+- Exploring serverless computing with AWS Lambda
+
+🌱 **I’m currently learning:**
+- Docker and Kubernetes for containerization and orchestration
+- Golang for its concurrency features
+- Best practices in cybersecurity for backend systems
+
+📫 **Reach out to me:**
+- Email: kickssss@proton.me
+
+🔗 **Check out some of my projects:**
+- WIP
+
+📈 **GitHub Stats:**
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+Feel free to connect with me or explore my projects. Always open to collaborations and discussions on exciting backend development topics!
